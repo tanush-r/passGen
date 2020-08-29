@@ -1,8 +1,8 @@
-#Password Generator
+# Password Generator
 This is a simple python project which uses Telegram's API. It generates a password using random combination of
 text, numbers and characters __in specific ratios__ with the entered password strength.
 
-###Steps
+### Steps
 1. Create virtual environment in required directory
 2. Install following packages to virtual environment
    >configparser, json, requests.
@@ -13,7 +13,7 @@ proceed to naming avatar and username. Finally, obtain the bot's API hash.
 6. Run server.py . Now the bot is alive and working. Test the bot by searching for it in the app, then text `/start` to see all the options.
 
 
-###Contributors
+### Contributors
 1. Tanush R ([tanushmal](https://github.com/tanushmal))
    **_Creator and maintainer_**
                                                         
